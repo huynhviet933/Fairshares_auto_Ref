@@ -33,6 +33,7 @@ Tạo các file .txt sau trong cùng thư mục với tool:
 - user_agents.txt : Mỗi dòng 1 User-Agent trình duyệt.
 - ref.txt         : Mỗi dòng 1 mã Access Code (Ref code).
 - mail.txt        : Mỗi dòng định dạng: email|password|token (Dùng Mail.tm). 
+Link Tool Hỗ Trợ Tạo MAil.tm : https://github.com/huynhviet933/Tool-Support
 
 3. CẤU HÌNH FILE config.json
 -----------------------------------------------------------
